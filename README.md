@@ -44,3 +44,5 @@ Before integrating, you must add an API key. Navigate to the main menu, select S
 ![image](https://github.com/user-attachments/assets/78be534a-5c87-4214-a5bb-95cc0ea508f7)
 
 After adding the API key, you can navigate to your ticketing system and add the URL to complete the integration.
+
+let's jump over to https://github.com/RottenCybersecurity/Tines_TicketSystem to see what this looks like!
